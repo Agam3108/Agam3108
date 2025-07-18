@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agam</h1>
-<h3 align="center">A final year student at IIIT Bhopal. I consider myselves to be a learner and an explorer. Other than that, my interest also lies in software development.</h3>
+<h3 align="center">A final year student at IIIT Bhopal. I consider myselves to be a learner and an explorer. Other than that, I am passionate about software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agam3108&label=Profile%20views&color=0e75b6&style=flat" alt="agam3108" /> </p>
 
