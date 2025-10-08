@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **agamsrivastava3108@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ARAyKExdA4Yor8lQhqpGsulfvr11-_El/view?usp=sharing](https://drive.google.com/file/d/1ARAyKExdA4Yor8lQhqpGsulfvr11-_El/view?usp=sharing)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/agam318/)
 
 - ⚡ Fun fact **Life gets better when people have a sense of humour.**
 
